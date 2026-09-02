@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "notit",
+  "displayName": "Notit",
+  "version": "1.0.0",
+  "description": "Study your Notit classes with Claude through a read-only connection.",
+  "author": {
+    "name": "METAPLAD Co., Ltd.",
+    "email": "help@metaplad.com",
+    "url": "https://notit.ai"
+  },
+  "homepage": "https://notit.ai/en/integrations/claude",
+  "repository": "https://github.com/metaplad/notit-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "education",
+    "notit",
+    "study",
+    "mcp"
+  ],
+  "defaultEnabled": false
+}

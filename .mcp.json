@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "notit": {
+      "type": "http",
+      "url": "https://mcp.notit.ai/mcp"
+    }
+  }
+}
