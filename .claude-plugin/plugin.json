@@ -2,8 +2,8 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "notit",
   "displayName": "Notit",
-  "version": "1.0.0",
-  "description": "Study your Notit classes with Claude through a read-only connection.",
+  "version": "1.1.0",
+  "description": "Search your Notit study materials, read complete sources, and cite them in Claude through a read-only connection.",
   "author": {
     "name": "METAPLAD Co., Ltd.",
     "email": "help@metaplad.com",
@@ -16,7 +16,9 @@
     "education",
     "notit",
     "study",
-    "mcp"
+    "mcp",
+    "search",
+    "citations"
   ],
   "defaultEnabled": false
 }
